@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Maaz 👋
 
-<!--
-**maazbuilds6/maazbuilds6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Cybersecurity Student | MaazBuilds**
+📍 Rahim Yar Khan, Pakistan
 
-Here are some ideas to get you started:
+## About Me
+BS Cybersecurity student at Superior University RYK, with completed CEH (Certified Ethical Hacker) training from Corvit Networks Lahore.
+I build web apps with Node.js and Express, and I love breaking and securing them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education & Certifications
+- 🎓 **BS Cybersecurity**: Superior University RYK (2026 - Present)
+- 🛡️ **CEH (Certified Ethical Hacker) Training, Completed**: Corvit Networks Lahore
+- 🧪 Hands-on practice: TryHackMe and HackTheBox labs
+
+## Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js, REST APIs, JWT, bcrypt
+- **Database:** MongoDB, LowDB
+- **CMS/E-commerce:** WordPress, Shopify, WooCommerce
+- **Security:** Ethical Hacking, Pentesting, Web App Security
+- **Tools:** Git, GitHub, Netlify, Railway
+
+## Projects
+- 📸 **SnapGram**: Instagram clone (auth, posts, likes, comments, chat, follow system)
+  [Live Demo](https://meek-squirrel-bd7f51.netlify.app)
+- 🌐 **Portfolio**: Responsive personal website
+  [Live Site](https://maazdev-pk.netlify.app)
+
+## Currently Learning
+Advanced JavaScript → React.js → Full Stack Projects
+
+## Contact
+📧 maazbuilds6@gmail.com
